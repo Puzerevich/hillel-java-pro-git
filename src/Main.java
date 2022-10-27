@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Home work #2");
         System.out.println("Commit #1");
         System.out.println("Commit #2");
+        System.out.println("Commit In branch 'Feature'");
     }
 }
